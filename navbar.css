@@ -1,0 +1,59 @@
+@font-face {
+    font-family: poppins-bold;
+    src: url(Fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: poppins-semibold;
+    src: url(Fonts/Poppins-SemiBold.ttf);
+}
+
+.container-xl{
+    padding: 0px !important;
+}
+
+.navbar{
+    font-size: 30px;
+    font-family: poppins-bold;
+}
+
+
+.navbar-brand{
+    font-size: 40px;
+    padding: 10px;
+    margin: 0px;
+    color:#F03A47;
+}
+
+@media (max-width: 432px) {
+    .navbar-brand {
+        font-size: 1em;
+    }
+}
+@media (max-width: 350px) {
+    .navbar-brand {
+        font-size: 0.80em;
+    }
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+    font-family: poppins-semibold;
+    padding: 10px;
+}
+
+.navAbout{
+    text-decoration: none;
+    color: #5B87BA;
+}
+
+.navWork{
+    text-decoration: none;
+    color: #276FBF;
+}
+
+
+.navContact{
+    text-decoration: none;
+    color: #0153B1;
+}
