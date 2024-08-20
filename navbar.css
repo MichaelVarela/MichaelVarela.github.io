@@ -23,7 +23,9 @@
     padding: 10px;
     margin: 0px;
     color:#F03A47;
+    pointer-events: none;
 }
+
 
 @media (max-width: 432px) {
     .navbar-brand {
@@ -46,10 +48,16 @@
     text-decoration: none;
     color: #5B87BA;
 }
+.navAbout:hover{
+    color: #6da3e2;
+}
 
 .navWork{
     text-decoration: none;
     color: #276FBF;
+}
+.navWork:hover{
+    color:#3187e8;
 }
 
 
@@ -57,3 +65,7 @@
     text-decoration: none;
     color: #0153B1;
 }
+.navContact:hover{
+    color: #006eec;
+}
+

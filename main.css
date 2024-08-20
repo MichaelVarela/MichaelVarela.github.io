@@ -12,7 +12,10 @@
       width: 150px; /* Adjust width as needed */
     }
   }
-  
+
+html{
+    scroll-behavior: smooth !important;
+}
 
 .row{
     padding: 10px;
