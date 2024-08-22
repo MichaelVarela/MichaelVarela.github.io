@@ -7,7 +7,7 @@ Proffesional website showcasing myself as a Software Engineer
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, Bootstrap, JavaScript
+**Tech used:** HTML, CSS, Bootstrap
 
 ## Lessons Learned:
 
