@@ -3,7 +3,7 @@ Proffesional website showcasing myself as a Software Engineer
 
 **Full Website:** https://mikevarela.com/
 
-![websiteScreenshot](michaelvarela.github.io\Resources\mikevarela-screenshot.png)
+![websiteScreenshot](Resources/mikevarela-screenshot.png)
 
 ## How It's Made:
 
